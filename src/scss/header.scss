@@ -1,0 +1,21 @@
+.headersection
+{
+    padding: 20px;
+}
+
+.cart-icon {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .cart-count {
+    position: absolute;
+    top: -10px; /* Adjust the top position as needed */
+    right: -10px; /* Adjust the right position as needed */
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 0px 8px; /* Adjust padding as needed */
+    font-size: 12px; /* Adjust font size as needed */
+  }
+  
